@@ -25,3 +25,5 @@
 - Migrations:
     - Criar migration baseado em mudanças no Context criado, no caso (AgendaContext)
         - dotnet-ef migrations add CriacaoTabelaContato
+    - Rodar migrations pendentes:
+        - dotnet-ef database update
