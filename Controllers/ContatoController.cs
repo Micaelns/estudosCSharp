@@ -20,7 +20,7 @@ namespace ModuloApi.Controllers
         {
             _context.Add(contato);
             _context.SaveChanges();
-            return Ok(contato);
+            return CreatedAtAction(nameof(ObterPorId), new {Id = contato.Id}, contato);
         }
 
         [HttpGet("{Id}")]
