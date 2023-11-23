@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b75uhdylFrlZrFZqRppcM90kDoEWxABcuBalfnc9zBJoo1+GwJfGl/6yqc3JZK39aV6H+E3KivrZ+ASHqaDzaA==",
+  "dgSpecHash": "fCkLzoQ1H1ZqVfB86sYk8ej1YhzVxIfTUrn4PISV97HXg/gINqYH5tKFXIAmYTFM+0XVS5XHIKISn+q4R5CFoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\moduloApi.csproj",
+  "projectFilePath": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\moduloApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4905091462\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\4905091462\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

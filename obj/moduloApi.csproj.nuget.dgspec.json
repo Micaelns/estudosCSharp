@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\moduloApi.csproj": {}
+    "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\moduloApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\moduloApi.csproj": {
+    "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\moduloApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\moduloApi.csproj",
+        "projectUniqueName": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\moduloApi.csproj",
         "projectName": "moduloApi",
-        "projectPath": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\moduloApi.csproj",
+        "projectPath": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\moduloApi.csproj",
         "packagesPath": "C:\\Users\\4905091462\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\obj\\",
+        "outputPath": "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\moduloApi\\NuGet.Config",
+          "C:\\Users\\4905091462\\Documents\\projetos\\estudos\\CSharp\\ModuloApi\\NuGet.Config",
           "C:\\Users\\4905091462\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
